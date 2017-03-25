@@ -1,2 +1,2 @@
 # C_samples
-Samples of C code I wrote for college
+Thank you for visiting! These are samples of C code I wrote for my college courses.
