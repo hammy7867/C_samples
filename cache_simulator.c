@@ -5,7 +5,7 @@
 #define B 16 // set block size
 #define E 4  // set number of lines per set
 #define m 32 // number of physical address bits
-#define setMask 0x1 // set set mask
+#define setMask 0x1 // set mask
 
 int hit = 0;
 int miss = 0;
